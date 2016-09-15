@@ -1,0 +1,70 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/steven/Code/python/ENV3/" . "my_blog/")
+ ("/home/steven/Code/python/TEST/" . "mysite/")
+ ("/home/steven/Code/python/" . "ENV3/")
+ ("/home/steven/Code/" . "python/")
+ ("/home/steven/" . "Code/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/steven/Code/python/"
+ "/home/steven/Code/python/ENV3/my_blog/article/templates/article/"
+ "/home/steven/Code/python/ENV3/my_blog/article/templatetags/"
+ "/home/steven/Code/python/ENV3/my_blog/article/"
+ "/home/steven/Code/python/TEST/mysite/polls/"
+ "/home/steven/Code/python/TEST/mysite/polls/templates/polls/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "wifi.py"
+ "tag.html"
+ "aboutme.html"
+ "archives.html"
+ "custom_markdown.py"
+ "duoshuo.html"
+ "post.html"
+ "home.html"
+ "base.html"
+ "template.html"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/steven/Code/python/" (22474 46633 111922 694000) "ENV3/" "TEST/" "../" "wifi.py" ".#test.py" "./")
+
+ ("/home/steven/" (22474 46407 135927 634000) ".profile" ".bashrc" ".pythonhist" "模板/" ".compiz/" ".config/" ".gnupg/" ".virtualenvs/" "视频/" ".nano/" ".lesshst" ".dmrc" ".macromedia/" "公共的/" ".wget-hsts" ".emacs.d/" "桌面/" ".sudo_as_admin_successful" ".CLion2016.2/" ".ipython/" ".python_history" "../" "下载/" ".bashrc~" ".adobe/" ".dbus/" ".xsession-errors.old" ".ssh/" ".mozilla/" "音乐/" ".bash_logout" ".xinputrc" ".cache/" "examples.desktop" "文档/" ".xsession-errors" ".java/" ".local/" ".bash_history" "图片/" ".spacemacs" ".filebackup/" ".vim/" ".viminfo" ".emacs.d.fk/" ".Xauthority" ".gconf/" ".ICEauthority" "./" "Code/" ".mysql_history" ".pki/" ".presage/")
+
+ ("/home/steven/Code/python/ENV3/my_blog/" (22473 33754 959971 892000) "db.sqlite3" "my_blog/" "../" "article/" "manage.py" "./")
+
+ ("/home/steven/Code/python/ENV3/my_blog/article/templates/article/" (22469 21459 339399 27000) "#tag.html#" "home.html" ".#tag.html" "post.html" "duoshuo.html" "../" "archives.html" "template.html" "base.html" "./" "aboutme.html")
+
+ ("/home/steven/Code/python/ENV3/my_blog/article/" (22469 19457 855782 509000) "admin.py" "urls.pyc" "tests.py" "urls.py" "models.pyc" "views.py" "models.py" "__init__.pyc" "../" "migrations/" "admin.pyc" "templates/" "templatetags/" "__pycache__/" "apps.py" "./" "__init__.py" "views.pyc")
+
+ ("/home/steven/Code/python/ENV3/my_blog/article/templatetags/" (22469 18891 130301 52000) "../" "custom_markdown.py" "__pycache__/" "./" "__init__.py")
+
+ ("/home/steven/Code/python/TEST/mysite/polls/" (22468 22904 151140 71000) "admin.py" "tests.py" "urls.py" "models.pyc" "views.py" "models.py" "__init__.pyc" "../" "migrations/" "admin.pyc" "templates/" "apps.pyc" "__pycache__/" "apps.py" "./" "__init__.py")
+
+ ("/home/steven/Code/python/ENV3/my_blog/my_blog/" (22468 22820 857886 304000) "wsgi.py" "urls.py" "#urls.py#" "../" ".#urls.py" "__pycache__/" "settings.py" "./" "__init__.py")
+
+ ("/home/steven/Code/python/TEST/mysite/polls/templates/polls/" (22466 57591 885571 509000) "results.html" "detail.html" "index.html" "../" "./")
+
+ ("/home/steven/Code/python/ENV3/" (22468 20770 16503 167000) "include/" "my_blog/" "../" "pip-selfcheck.json" "./" "bin/" "lib/")
+
+ ("/home/steven/Code/python/TEST/mysite/" (22466 34732 245536 924000) "db.sqlite3" "mysite/" "../" "polls/" "manage.py" "./")
+
+ ("/home/steven/Code/python/TEST/bin/" (22466 34540 561 926000) "pip3.5" "easy_install-3.5" "django-admin.py" "python" "easy_install" "pip3" "python3.5" "python3" "wheel" "pip" "activate_this.py" "../" "activate" "django-admin" "__pycache__/" "python-config" "activate.csh" "./" "activate.fish")
+
+ ("/home/steven/Code/python/TEST/" (22466 34574 856759 999000) "mysite/" "include/" "../" "pip-selfcheck.json" "./" "bin/" "lib/")
+
+ ("/home/steven/Code/c/" (22459 17852 749548 971000) "test.c" "a.out" "../" "foo" "./" "apue/")
+
+ ("/home/steven/Code/" (22443 812 245248 878000) "python/" "../" "./" "c/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

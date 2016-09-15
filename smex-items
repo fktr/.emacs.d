@@ -1,0 +1,43 @@
+
+;; ----- smex-history -----
+(
+ python-mode
+ mkdir
+ replace-string
+ term
+ projectile-mode
+ helm-M-x
+ helm-locate
+)
+
+;; ----- smex-data -----
+(
+ (gdb . 1)
+ (package-install . 15)
+ (find-function . 2)
+ (org-mode . 4)
+ (c-mode . 3)
+ (smex . 1)
+ (helm-buffers-list . 6)
+ (helm-find-files . 21)
+ (helm-top . 4)
+ (helm-mode . 7)
+ (load-file . 8)
+ (helm-apt . 1)
+ (helm-help . 2)
+ (helm-M-x . 3)
+ (helm-locate . 2)
+ (ping . 2)
+ (ace-jump-mode . 2)
+ (list-packages . 3)
+ (find-file-in-project . 4)
+ (term . 8)
+ (auto-complete . 4)
+ (auto-complete-mode . 3)
+ (tags-search . 1)
+ (helm-projectile . 2)
+ (projectile-mode . 1)
+ (python-mode . 6)
+ (replace-string . 5)
+ (mkdir . 4)
+)
